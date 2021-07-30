@@ -1,0 +1,23 @@
+{
+  "name": "express-routes-calc",
+  "version": "1.0.0",
+  "description": "express routes deliverable",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cotsao/express-routes-calc.git"
+  },
+  "author": "cotsao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cotsao/express-routes-calc/issues"
+  },
+  "homepage": "https://github.com/cotsao/express-routes-calc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
