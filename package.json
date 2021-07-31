@@ -1,0 +1,27 @@
+{
+  "name": "express-routes-calc",
+  "version": "1.0.0",
+  "description": "Express Routing Calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisterManley/express-routes-calc.git"
+  },
+  "keywords": [
+    "Calculator"
+  ],
+  "author": "George Manley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisterManley/express-routes-calc/issues"
+  },
+  "homepage": "https://github.com/MisterManley/express-routes-calc#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
