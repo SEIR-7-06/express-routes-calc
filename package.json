@@ -1,0 +1,23 @@
+{
+  "name": "express-routes-calc",
+  "version": "1.0.0",
+  "description": "calculator hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nndeto/express-routes-calc.git"
+  },
+  "author": "nicole ndeto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nndeto/express-routes-calc/issues"
+  },
+  "homepage": "https://github.com/nndeto/express-routes-calc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
