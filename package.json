@@ -1,0 +1,25 @@
+{
+  "name": "express-routes-calc",
+  "version": "1.0.0",
+  "description": "Your task for this lab is create a webserver calculator using [Express](https://expressjs.com/) routes. Your calculator should handle **GET** (`app.get()`) requests to `/add`, `/subtract`, `/multiply` and `/divide`. You should use *URL parameters* to handle requests to your calculator.",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "rowdy-logger": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanyburden/express-routes-calc.git"
+  },
+  "author": "Stephany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanyburden/express-routes-calc/issues"
+  },
+  "homepage": "https://github.com/stephanyburden/express-routes-calc#readme"
+}
