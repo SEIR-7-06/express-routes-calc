@@ -1,0 +1,22 @@
+{
+  "name": "express-routes-calc",
+  "version": "1.0.0",
+  "description": "deliverable",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataPlant/express-routes-calc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DataPlant/express-routes-calc/issues"
+  },
+  "homepage": "https://github.com/DataPlant/express-routes-calc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
